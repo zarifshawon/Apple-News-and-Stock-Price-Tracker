@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### npm install
+Install neccesary dependencies: moment, 'chartjs-adapter-moment', react-chartjs-2;
+### cd news-stock
 
 ### `npm start`
 
